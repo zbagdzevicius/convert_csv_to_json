@@ -1,0 +1,7 @@
+setup.py
+convert_csv_to_json/__init__.py
+convert_csv_to_json/csv_parser.py
+convert_csv_to_json.egg-info/PKG-INFO
+convert_csv_to_json.egg-info/SOURCES.txt
+convert_csv_to_json.egg-info/dependency_links.txt
+convert_csv_to_json.egg-info/top_level.txt
